@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="3" height="3" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiletestsheet" tilewidth="32" tileheight="32">
+  <image source="../../../../tiletestsheet.png" width="896" height="352"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="3" height="3">
+  <data>
+   <tile gid="22"/>
+   <tile gid="23"/>
+   <tile gid="24"/>
+   <tile gid="50"/>
+   <tile gid="51"/>
+   <tile gid="52"/>
+   <tile gid="78"/>
+   <tile gid="79"/>
+   <tile gid="80"/>
+  </data>
+ </layer>
+</map>
